@@ -1,0 +1,5 @@
+For my final project, I made Candy Crush, which is a three in a row matching game. The user will click on two adjacent candies to swap, and if this creates a three, four, or five in a row, then the candies will pop and the user will get points. The candies above the popped ones will drop down, and the top spots will be filled in with random candies. If by chance another three in a row is created following the initial pop, the new sequence will be popped as well. I have set it so that a three in a row will receive three points, a four in a row will receive 4 points, and so on. In my version, the goal is to reach a certain number of points in a given time period, which I currently have set as reaching 50 points in 10 seconds, but can be changed easily be choosing different parameters for the game object. After you win, you can easily play again by just clicking, and the amount of times the user has won will be recorded.
+To set it up, the user just needs to have CLion and Cinder installed. My program does not require the use of any external libraries.
+
+Here is a demo of my project!
+https://drive.google.com/file/d/1mKlTIICMnjTBLYl-h8mXHiz2LDwQG2yb/view?usp=sharing
